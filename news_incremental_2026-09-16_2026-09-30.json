@@ -1,0 +1,643 @@
+{
+  "status": "ok",
+  "totalResults": 45,
+  "request": {
+    "load_type": "incremental",
+    "from": "2026-09-16",
+    "to": "2026-09-30",
+    "language": "en",
+    "provider": "newsapi-style"
+  },
+  "articles": [
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Newsroom Desk",
+      "title": "Hospitals struggle with fuel shortages amid ongoing strikes",
+      "description": "Diplomats said the draft framework addresses exchanges and a phased pause in fighting, though key details remain unresolved.",
+      "url": "https://www.aljazeera.com/2026/06/11/israel-gaza-conflict/hospitals-struggle-with-fuel-shortages-amid-ongoing-strikes",
+      "urlToImage": "https://www.aljazeera.com/images/f23b3bdb0f.jpg",
+      "publishedAt": "2026-06-11T20:29:52Z",
+      "content": "Diplomats said the draft framework addresses exchanges and a phased pause in fighting, though key details remain unresolved. [+500 chars]",
+      "_query_topic": "israel-gaza"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TRT World"
+      },
+      "author": "J. Whitfield",
+      "title": "Lawmakers examine proposals to define anti-Muslim hatred",
+      "description": "Religious leaders from several communities held a joint event calling for dialogue and mutual understanding.",
+      "url": "https://www.trtworld.com/2026/06/30/islamophobia-social-conflict/lawmakers-examine-proposals-to-define-anti-muslim-hatred",
+      "urlToImage": "https://www.trtworld.com/images/d08903707b.jpg",
+      "publishedAt": "2026-06-30T09:09:11Z",
+      "content": "Religious leaders from several communities held a joint event calling for dialogue and mutual understanding. [+694 chars]",
+      "_query_topic": "islamophobia"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dawn"
+      },
+      "author": "Staff Reporter",
+      "title": "Interfaith leaders call for dialogue after mosque vandalism",
+      "description": "Advocacy organisations said reported incidents had increased over the past year, and urged authorities to improve data collection.",
+      "url": "https://www.dawn.com/2026/07/16/islamophobia-social-conflict/interfaith-leaders-call-for-dialogue-after-mosque-vandalism",
+      "urlToImage": "https://www.dawn.com/images/5ca2f53657.jpg",
+      "publishedAt": "2026-07-16T23:53:10Z",
+      "content": "Advocacy organisations said reported incidents had increased over the past year, and urged authorities to improve data collection. [+3856 chars]",
+      "_query_topic": "islamophobia"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "M. Okafor",
+      "title": "China expands infrastructure investment across Central Asia (updated)",
+      "description": "Officials from both countries described the discussions as constructive, while noting that significant differences remain on tariffs.",
+      "url": "https://www.cnn.com/2026/08/01/china-geopolitics/china-expands-infrastructure-investment-across-central-asia",
+      "urlToImage": "https://www.cnn.com/images/22396fd6e8.jpg",
+      "publishedAt": "2026-08-01T10:17:52Z",
+      "content": "Officials from both countries described the discussions as constructive, while noting that significant differences remain on tariffs. [+3630 chars] Additional reporting added after publication.",
+      "_query_topic": "china"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "J. Whitfield",
+      "title": "Interfaith leaders call for dialogue after mosque vandalism (updated)",
+      "description": "Religious leaders from several communities held a joint event calling for dialogue and mutual understanding.",
+      "url": "https://www.bbc.com/news/2026/08/18/islamophobia-social-conflict/interfaith-leaders-call-for-dialogue-after-mosque-vandalism",
+      "urlToImage": "https://www.bbc.com/news/images/5ca2f53657.jpg",
+      "publishedAt": "2026-08-18T16:50:37Z",
+      "content": "Religious leaders from several communities held a joint event calling for dialogue and mutual understanding. [+3781 chars] Additional reporting added after publication.",
+      "_query_topic": "islamophobia"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "A. Rahman",
+      "title": "Defence ministers pledge additional air-defence support",
+      "description": "Leaders meeting in Brussels said the new measures would target energy exports and financial networks.",
+      "url": "https://www.cnn.com/2026/09/16/russia-ukraine-war/defence-ministers-pledge-additional-air-defence-support",
+      "urlToImage": "https://www.cnn.com/images/24af3682f4.jpg",
+      "publishedAt": "2026-09-16T00:34:28Z",
+      "content": "Leaders meeting in Brussels said the new measures would target energy exports and financial networks. [+1286 chars]",
+      "_query_topic": "russia-ukraine"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "L. Fernandez",
+      "title": "Schools introduce programmes on religious tolerance",
+      "description": "Advocacy organisations said reported incidents had increased over the past year, and urged authorities to improve data collection.",
+      "url": "https://www.bbc.com/news/2026/09/16/islamophobia-social-conflict/schools-introduce-programmes-on-religious-tolerance",
+      "urlToImage": "https://www.bbc.com/news/images/82c9a36000.jpg",
+      "publishedAt": "2026-09-16T02:18:50Z",
+      "content": "Advocacy organisations said reported incidents had increased over the past year, and urged authorities to improve data collection. [+2036 chars]",
+      "_query_topic": "islamophobia"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "R. Kapoor",
+      "title": "Export controls on advanced chips reshape supply chains",
+      "description": "Regional governments urged restraint and called for adherence to international maritime law.",
+      "url": "https://www.foxnews.com/2026/09/16/china-geopolitics/export-controls-on-advanced-chips-reshape-supply-chains",
+      "urlToImage": "https://www.foxnews.com/images/cd72125259.jpg",
+      "publishedAt": "2026-09-16T04:27:01Z",
+      "content": "Regional governments urged restraint and called for adherence to international maritime law. [+1648 chars]",
+      "_query_topic": "china"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "Community groups report rise in hate-crime complaints",
+      "description": "Advocacy organisations said reported incidents had increased over the past year, and urged authorities to improve data collection.",
+      "url": "https://www.cnn.com/2026/09/16/islamophobia-social-conflict/community-groups-report-rise-in-hate-crime-complaints",
+      "urlToImage": "https://www.cnn.com/images/5fd16713f2.jpg",
+      "publishedAt": "2026-09-16T08:32:55Z",
+      "content": "Advocacy organisations said reported incidents had increased over the past year, and urged authorities to improve data collection. [+755 chars]",
+      "_query_topic": "islamophobia"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Staff Reporter",
+      "title": "China expands infrastructure investment across Central Asia",
+      "description": "Officials from both countries described the discussions as constructive, while noting that significant differences remain on tariffs.",
+      "url": "https://www.bbc.com/news/2026/09/18/china-geopolitics/china-expands-infrastructure-investment-across-central-asia",
+      "urlToImage": "https://www.bbc.com/news/images/22396fd6e8.jpg",
+      "publishedAt": "2026-09-18T04:00:08Z",
+      "content": "Officials from both countries described the discussions as constructive, while noting that significant differences remain on tariffs. [+739 chars]",
+      "_query_topic": "china"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TRT World"
+      },
+      "author": "R. Kapoor",
+      "title": "Schools introduce programmes on religious tolerance",
+      "description": "Religious leaders from several communities held a joint event calling for dialogue and mutual understanding.",
+      "url": "https://www.trtworld.com/2026/09/19/islamophobia-social-conflict/schools-introduce-programmes-on-religious-tolerance",
+      "urlToImage": "https://www.trtworld.com/images/82c9a36000.jpg",
+      "publishedAt": "2026-09-19T03:17:16Z",
+      "content": "Religious leaders from several communities held a joint event calling for dialogue and mutual understanding. [+257 chars]",
+      "_query_topic": "islamophobia"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dawn"
+      },
+      "author": "Newsroom Desk",
+      "title": "Election officials outline voting-security preparations",
+      "description": "A new survey found the contest within the margin of error, with economic concerns ranking highest among respondents.",
+      "url": "https://www.dawn.com/2026/09/19/us-presidential-elections/election-officials-outline-voting-security-preparations",
+      "urlToImage": "https://www.dawn.com/images/0c28968c6c.jpg",
+      "publishedAt": "2026-09-19T15:08:44Z",
+      "content": "A new survey found the contest within the margin of error, with economic concerns ranking highest among respondents. [+1480 chars]",
+      "_query_topic": "us-elections"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "Al Jazeera"
+      },
+      "author": "S. Lindqvist",
+      "title": "Regional leaders meet to discuss post-war governance proposals",
+      "description": "Aid workers described shortages of medicine, food and clean water.",
+      "url": "https://www.cnn.com/2026/09/19/israel-gaza-conflict/regional-leaders-meet-to-discuss-post-war-governance-proposals",
+      "urlToImage": "https://www.cnn.com/images/dfb6b922a9.jpg",
+      "publishedAt": "2026-09-19T19:49:24Z",
+      "content": "Aid workers described shortages of medicine, food and clean water. Authorities said they were reviewing procedures at border crossings. [+448 chars]",
+      "_query_topic": "israel-gaza"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TRT World"
+      },
+      "author": "A. Rahman",
+      "title": "Campaign teams focus on swing states ahead of primaries",
+      "description": "A new survey found the contest within the margin of error, with economic concerns ranking highest among respondents.",
+      "url": "https://www.trtworld.com/2026/09/20/us-presidential-elections/campaign-teams-focus-on-swing-states-ahead-of",
+      "urlToImage": "https://www.trtworld.com/images/5f667be08d.jpg",
+      "publishedAt": "2026-09-20T02:44:29Z",
+      "content": "A new survey found the contest within the margin of error, with economic concerns ranking highest among respondents. [+3289 chars]",
+      "_query_topic": "us-elections"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "H. Tanaka",
+      "title": "Interfaith leaders call for dialogue after mosque vandalism",
+      "description": "Advocacy organisations said reported incidents had increased over the past year, and urged authorities to improve data collection.",
+      "url": "https://www.cnn.com/2026/09/20/islamophobia-social-conflict/interfaith-leaders-call-for-dialogue-after-mosque-vandalism",
+      "urlToImage": "https://www.cnn.com/images/5ca2f53657.jpg",
+      "publishedAt": "2026-09-20T04:48:42Z",
+      "content": "Advocacy organisations said reported incidents had increased over the past year, and urged authorities to improve data collection. [+3789 chars]",
+      "_query_topic": "islamophobia"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "N. Aziz",
+      "title": "Hospitals struggle with fuel shortages amid ongoing strikes",
+      "description": "Aid workers described shortages of medicine, food and clean water.",
+      "url": "https://www.foxnews.com/2026/09/20/israel-gaza-conflict/hospitals-struggle-with-fuel-shortages-amid-ongoing-strikes",
+      "urlToImage": "https://www.foxnews.com/images/f23b3bdb0f.jpg",
+      "publishedAt": "2026-09-20T09:32:42Z",
+      "content": "Aid workers described shortages of medicine, food and clean water. Authorities said they were reviewing procedures at border crossings. [+1760 chars]",
+      "_query_topic": "israel-gaza"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TRT World"
+      },
+      "author": "Staff Reporter",
+      "title": "Peace proposal draws cautious response from both capitals",
+      "description": "Ukrainian officials said air defences intercepted most incoming drones, while Russian officials gave a different account of the strikes.",
+      "url": "https://www.trtworld.com/2026/09/20/russia-ukraine-war/peace-proposal-draws-cautious-response-from-both-capitals",
+      "urlToImage": "https://www.trtworld.com/images/c23d077b03.jpg",
+      "publishedAt": "2026-09-20T22:50:42Z",
+      "content": "Ukrainian officials said air defences intercepted most incoming drones, while Russian officials gave a different account of the strikes. [+1465 chars]",
+      "_query_topic": "russia-ukraine"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "L. Fernandez",
+      "title": "China expands infrastructure investment across Central Asia",
+      "description": "Officials from both countries described the discussions as constructive, while noting that significant differences remain on tariffs.",
+      "url": "https://www.foxnews.com/2026/09/21/china-geopolitics/china-expands-infrastructure-investment-across-central-asia",
+      "urlToImage": "https://www.foxnews.com/images/22396fd6e8.jpg",
+      "publishedAt": "2026-09-21T09:21:21Z",
+      "content": "Officials from both countries described the discussions as constructive, while noting that significant differences remain on tariffs. [+3503 chars]",
+      "_query_topic": "china"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "J. Whitfield",
+      "title": "Kyiv reports overnight drone attacks on energy infrastructure",
+      "description": "Leaders meeting in Brussels said the new measures would target energy exports and financial networks.",
+      "url": "https://www.cnn.com/2026/09/22/russia-ukraine-war/kyiv-reports-overnight-drone-attacks-on-energy-infrastructure",
+      "urlToImage": "https://www.cnn.com/images/38d668627b.jpg",
+      "publishedAt": "2026-09-22T03:20:15Z",
+      "content": "Leaders meeting in Brussels said the new measures would target energy exports and financial networks. [+2828 chars]",
+      "_query_topic": "russia-ukraine"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "L. Fernandez",
+      "title": "Regional leaders meet to discuss post-war governance proposals",
+      "description": "Aid workers described shortages of medicine, food and clean water.",
+      "url": "https://www.cnn.com/2026/09/22/israel-gaza-conflict/regional-leaders-meet-to-discuss-post-war-governance-proposals",
+      "urlToImage": "https://www.cnn.com/images/dfb6b922a9.jpg",
+      "publishedAt": "2026-09-22T07:54:37Z",
+      "content": "Aid workers described shortages of medicine, food and clean water. Authorities said they were reviewing procedures at border crossings. [+2021 chars]",
+      "_query_topic": "israel-gaza"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Newsroom Desk",
+      "title": "Candidates clash over economy and immigration in televised debate",
+      "description": "Campaign staff said resources were being directed toward a small group of competitive states as the primary calendar approached.",
+      "url": "https://www.cnn.com/2026/09/22/us-presidential-elections/candidates-clash-over-economy-and-immigration-in-televised",
+      "urlToImage": "https://www.cnn.com/images/b6ae86d32d.jpg",
+      "publishedAt": "2026-09-22T17:16:03Z",
+      "content": null,
+      "_query_topic": "us-elections"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dawn"
+      },
+      "author": "R. Kapoor",
+      "title": "Voter turnout expected to be shaped by early-voting rules",
+      "description": "State election officials described new auditing procedures and public-information efforts ahead of voting.",
+      "url": "https://www.dawn.com/2026/09/22/us-presidential-elections/voter-turnout-expected-to-be-shaped-by-early-voting",
+      "urlToImage": "https://www.dawn.com/images/bff4e845fa.jpg",
+      "publishedAt": "2026-09-22T19:40:04Z",
+      "content": "State election officials described new auditing procedures and public-information efforts ahead of voting. [+2605 chars]",
+      "_query_topic": "us-elections"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "J. Whitfield",
+      "title": "Defence ministers pledge additional air-defence support",
+      "description": "Leaders meeting in Brussels said the new measures would target energy exports and financial networks.",
+      "url": "https://www.cnn.com/2026/09/23/russia-ukraine-war/defence-ministers-pledge-additional-air-defence-support",
+      "urlToImage": "https://www.cnn.com/images/24af3682f4.jpg",
+      "publishedAt": "2026-09-23T07:58:25Z",
+      "content": "Leaders meeting in Brussels said the new measures would target energy exports and financial networks. [+2743 chars]",
+      "_query_topic": "russia-ukraine"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "M. Okafor",
+      "title": "China expands infrastructure investment across Central Asia",
+      "description": "Analysts said new investment announcements reflect a broader effort to expand economic ties in the region.",
+      "url": "https://www.cnn.com/2026/09/23/china-geopolitics/china-expands-infrastructure-investment-across-central-asia",
+      "urlToImage": "https://www.cnn.com/images/22396fd6e8.jpg",
+      "publishedAt": "2026-09-23T15:26:55Z",
+      "content": "Analysts said new investment announcements reflect a broader effort to expand economic ties in the region. [+2071 chars]",
+      "_query_topic": "china"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dawn"
+      },
+      "author": "L. Fernandez",
+      "title": "Rights groups urge stronger protections for religious minorities",
+      "description": "Advocacy organisations said reported incidents had increased over the past year, and urged authorities to improve data collection.",
+      "url": "https://www.dawn.com/2026/09/23/islamophobia-social-conflict/rights-groups-urge-stronger-protections-for-religious-minorities",
+      "urlToImage": "https://www.dawn.com/images/3cf1689e61.jpg",
+      "publishedAt": "2026-09-23T17:51:00Z",
+      "content": "Advocacy organisations said reported incidents had increased over the past year, and urged authorities to improve data collection. [+501 chars]",
+      "_query_topic": "islamophobia"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Newsroom Desk",
+      "title": "Schools introduce programmes on religious tolerance",
+      "description": "Researchers said the study analysed coverage across multiple outlets and found measurable differences in framing.",
+      "url": "https://www.cnn.com/2026/09/24/islamophobia-social-conflict/schools-introduce-programmes-on-religious-tolerance",
+      "urlToImage": "https://www.cnn.com/images/82c9a36000.jpg",
+      "publishedAt": "2026-09-24T15:39:47Z",
+      "content": "Researchers said the study analysed coverage across multiple outlets and found measurable differences in framing. [+3448 chars]",
+      "_query_topic": "islamophobia"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "L. Fernandez",
+      "title": "Grain corridor talks resume with international mediators",
+      "description": "Analysts said the fighting around several eastern towns has intensified in recent weeks, with both sides claiming limited gains.",
+      "url": "https://www.bbc.com/news/2026/09/25/russia-ukraine-war/grain-corridor-talks-resume-with-international-mediators",
+      "urlToImage": "https://www.bbc.com/news/images/6d0eb7fab1.jpg",
+      "publishedAt": "2026-09-25T09:14:49Z",
+      "content": "Analysts said the fighting around several eastern towns has intensified in recent weeks, with both sides claiming limited gains. [+1245 chars]",
+      "_query_topic": "russia-ukraine"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Staff Reporter",
+      "title": "  China expands infrastructure investment across Central Asia",
+      "description": "Analysts said new investment announcements reflect a broader effort to expand economic ties in the region.",
+      "url": "https://www.cnn.com/2026/09/25/china-geopolitics/china-expands-infrastructure-investment-across-central-asia",
+      "urlToImage": "https://www.cnn.com/images/22396fd6e8.jpg",
+      "publishedAt": "2026-09-25T10:44:56Z",
+      "content": "Analysts said new investment announcements reflect a broader effort to expand economic ties in the region. [+3599 chars]",
+      "_query_topic": "china"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TRT World"
+      },
+      "author": "R. Kapoor",
+      "title": "Export controls on advanced chips reshape supply chains",
+      "description": "Analysts said new investment announcements reflect a broader effort to expand economic ties in the region.",
+      "url": "https://www.trtworld.com/2026/09/25/china-geopolitics/export-controls-on-advanced-chips-reshape-supply-chains",
+      "urlToImage": "https://www.trtworld.com/images/cd72125259.jpg",
+      "publishedAt": "2026-09-25T11:50:22Z",
+      "content": "Analysts said new investment announcements reflect a broader effort to expand economic ties in the region. [+2646 chars]",
+      "_query_topic": "china"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "J. Whitfield",
+      "title": "UN Security Council debates new resolution on Gaza",
+      "description": "Negotiators from several countries met this week to discuss a possible ceasefire, while aid organisations said deliveries remained limited.",
+      "url": "https://www.bbc.com/news/2026/09/25/israel-gaza-conflict/un-security-council-debates-new-resolution-on-gaza",
+      "urlToImage": "https://www.bbc.com/news/images/a0df536680.jpg",
+      "publishedAt": "2026-09-25T21:20:58Z",
+      "content": "Negotiators from several countries met this week to discuss a possible ceasefire, while aid organisations said deliveries remained limited. Officials on both sides offered differing accounts of the talks. [+3530 chars]",
+      "_query_topic": "israel-gaza"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Staff Reporter",
+      "title": "China expands infrastructure investment across Central Asia",
+      "description": "Regional governments urged restraint and called for adherence to international maritime law.",
+      "url": "https://www.aljazeera.com/2026/09/25/china-geopolitics/china-expands-infrastructure-investment-across-central-asia",
+      "urlToImage": "https://www.aljazeera.com/images/22396fd6e8.jpg",
+      "publishedAt": "2026-09-25T23:25:23Z",
+      "content": "Regional governments urged restraint and called for adherence to international maritime law. [+449 chars]",
+      "_query_topic": "china"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Newsroom Desk",
+      "title": "Fundraising totals released for latest reporting period",
+      "description": "Campaign staff said resources were being directed toward a small group of competitive states as the primary calendar approached.",
+      "url": "https://www.foxnews.com/2026/09/25/us-presidential-elections/fundraising-totals-released-for-latest-reporting-period",
+      "urlToImage": "https://www.foxnews.com/images/9090d0f107.jpg",
+      "publishedAt": "2026-09-25T23:34:49Z",
+      "content": "Campaign staff said resources were being directed toward a small group of competitive states as the primary calendar approached. [+2802 chars]",
+      "_query_topic": "us-elections"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dawn"
+      },
+      "author": "N. Aziz",
+      "title": "Campaign teams focus on swing states ahead of primaries",
+      "description": "State election officials described new auditing procedures and public-information efforts ahead of voting.",
+      "url": "https://www.dawn.com/2026/09/26/us-presidential-elections/campaign-teams-focus-on-swing-states-ahead-of",
+      "urlToImage": "https://www.dawn.com/images/5f667be08d.jpg",
+      "publishedAt": "2026-09-26T01:47:08Z",
+      "content": "State election officials described new auditing procedures and public-information efforts ahead of voting. [+3252 chars]",
+      "_query_topic": "us-elections"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "A. Rahman",
+      "title": "Ceasefire talks continue as aid convoys wait at crossing",
+      "description": "Aid workers described shortages of medicine, food and clean water.",
+      "url": "https://www.foxnews.com/2026/09/26/israel-gaza-conflict/ceasefire-talks-continue-as-aid-convoys-wait-at",
+      "urlToImage": "https://www.foxnews.com/images/7fc7103937.jpg",
+      "publishedAt": "2026-09-26T08:52:05Z",
+      "content": "Aid workers described shortages of medicine, food and clean water. Authorities said they were reviewing procedures at border crossings. [+3423 chars]",
+      "_query_topic": "israel-gaza"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "A. Rahman",
+      "title": "Lawmakers examine proposals to define anti-Muslim hatred",
+      "description": "Researchers said the study analysed coverage across multiple outlets and found measurable differences in framing.",
+      "url": "https://www.aljazeera.com/2026/09/26/islamophobia-social-conflict/lawmakers-examine-proposals-to-define-anti-muslim-hatred",
+      "urlToImage": "https://www.aljazeera.com/images/d08903707b.jpg",
+      "publishedAt": "2026-09-26T19:54:03Z",
+      "content": "Researchers said the study analysed coverage across multiple outlets and found measurable differences in framing. [+502 chars]",
+      "_query_topic": "islamophobia"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TRT World"
+      },
+      "author": "L. Fernandez",
+      "title": "Grain corridor talks resume with international mediators",
+      "description": "Analysts said the fighting around several eastern towns has intensified in recent weeks, with both sides claiming limited gains.",
+      "url": "https://www.trtworld.com/2026/09/27/russia-ukraine-war/grain-corridor-talks-resume-with-international-mediators",
+      "urlToImage": "https://www.trtworld.com/images/6d0eb7fab1.jpg",
+      "publishedAt": "2026-09-27T03:36:18Z",
+      "content": "Analysts said the fighting around several eastern towns has intensified in recent weeks, with both sides claiming limited gains. [+2721 chars]",
+      "_query_topic": "russia-ukraine"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "L. Fernandez",
+      "title": "Belt and Road partners review project financing terms",
+      "description": "Officials from both countries described the discussions as constructive, while noting that significant differences remain on tariffs.",
+      "url": "https://www.aljazeera.com/2026/09/27/china-geopolitics/belt-and-road-partners-review-project-financing-terms",
+      "urlToImage": "https://www.aljazeera.com/images/a82f68bd33.jpg",
+      "publishedAt": "2026-09-27T15:39:30Z",
+      "content": "Officials from both countries described the discussions as constructive, while noting that significant differences remain on tariffs. [+3837 chars]",
+      "_query_topic": "china"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dawn"
+      },
+      "author": "Newsroom Desk",
+      "title": "UN Security Council debates new resolution on Gaza",
+      "description": "Aid workers described shortages of medicine, food and clean water.",
+      "url": "https://www.dawn.com/2026/09/28/israel-gaza-conflict/un-security-council-debates-new-resolution-on-gaza",
+      "urlToImage": "https://www.dawn.com/images/a0df536680.jpg",
+      "publishedAt": "2026-09-28T04:47:04Z",
+      "content": "Aid workers described shortages of medicine, food and clean water. Authorities said they were reviewing procedures at border crossings. [+3925 chars]",
+      "_query_topic": "israel-gaza"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "H. Tanaka",
+      "title": "Export controls on advanced chips reshape supply chains",
+      "description": "Officials from both countries described the discussions as constructive, while noting that significant differences remain on tariffs.",
+      "url": "https://www.cnn.com/2026/09/28/china-geopolitics/export-controls-on-advanced-chips-reshape-supply-chains",
+      "urlToImage": "https://www.cnn.com/images/cd72125259.jpg",
+      "publishedAt": "2026-09-28T16:27:25Z",
+      "content": "Officials from both countries described the discussions as constructive, while noting that significant differences remain on tariffs. [+1107 chars]",
+      "_query_topic": "china"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "M. Okafor",
+      "title": "New poll shows tight race among likely voters",
+      "description": "State election officials described new auditing procedures and public-information efforts ahead of voting.",
+      "url": "https://www.bbc.com/news/2026/09/29/us-presidential-elections/new-poll-shows-tight-race-among-likely-voters",
+      "urlToImage": "https://www.bbc.com/news/images/efb2b55a90.jpg",
+      "publishedAt": "2026-09-29T00:06:11Z",
+      "content": "State election officials described new auditing procedures and public-information efforts ahead of voting. [+3716 chars]",
+      "_query_topic": "us-elections"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "J. Whitfield",
+      "title": "Grain corridor talks resume with international mediators",
+      "description": "Leaders meeting in Brussels said the new measures would target energy exports and financial networks.",
+      "url": "https://www.cnn.com/2026/09/29/russia-ukraine-war/grain-corridor-talks-resume-with-international-mediators",
+      "urlToImage": "https://www.cnn.com/images/6d0eb7fab1.jpg",
+      "publishedAt": "2026-09-29T03:52:59Z",
+      "content": "Leaders meeting in Brussels said the new measures would target energy exports and financial networks. [+1762 chars]",
+      "_query_topic": "russia-ukraine"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dawn"
+      },
+      "author": "A. Rahman",
+      "title": "Voter turnout expected to be shaped by early-voting rules",
+      "description": "A new survey found the contest within the margin of error, with economic concerns ranking highest among respondents.",
+      "url": "https://www.dawn.com/2026/09/29/us-presidential-elections/voter-turnout-expected-to-be-shaped-by-early-voting",
+      "urlToImage": "https://www.dawn.com/images/bff4e845fa.jpg",
+      "publishedAt": "2026-09-29T04:14:52Z",
+      "content": "A new survey found the contest within the margin of error, with economic concerns ranking highest among respondents. [+385 chars]",
+      "_query_topic": "us-elections"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TRT World"
+      },
+      "author": "L. Fernandez",
+      "title": "Campaign teams focus on swing states ahead of primaries",
+      "description": "State election officials described new auditing procedures and public-information efforts ahead of voting.",
+      "url": "https://www.trtworld.com/2026/09/29/us-presidential-elections/campaign-teams-focus-on-swing-states-ahead-of",
+      "urlToImage": "https://www.trtworld.com/images/5f667be08d.jpg",
+      "publishedAt": "2026-09-29T08:30:47Z",
+      "content": "State election officials described new auditing procedures and public-information efforts ahead of voting. [+302 chars]",
+      "_query_topic": "us-elections"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "A. Rahman",
+      "title": "Hospitals struggle with fuel shortages amid ongoing strikes",
+      "description": "Negotiators from several countries met this week to discuss a possible ceasefire, while aid organisations said deliveries remained limited.",
+      "url": "https://www.aljazeera.com/2026/09/29/israel-gaza-conflict/hospitals-struggle-with-fuel-shortages-amid-ongoing-strikes",
+      "urlToImage": "https://www.aljazeera.com/images/f23b3bdb0f.jpg",
+      "publishedAt": "2026-09-29T13:34:03Z",
+      "content": "Negotiators from several countries met this week to discuss a possible ceasefire, while aid organisations said deliveries remained limited. Officials on both sides offered differing accounts of the talks. [+2478 chars]",
+      "_query_topic": "israel-gaza"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "A. Rahman",
+      "title": "Fundraising totals released for latest reporting period",
+      "description": "Campaign staff said resources were being directed toward a small group of competitive states as the primary calendar approached.",
+      "url": "https://www.aljazeera.com/2026/09/30/us-presidential-elections/fundraising-totals-released-for-latest-reporting-period",
+      "urlToImage": "https://www.aljazeera.com/images/9090d0f107.jpg",
+      "publishedAt": "2026-09-30T02:23:29Z",
+      "content": "Campaign staff said resources were being directed toward a small group of competitive states as the primary calendar approached. [+1326 chars]",
+      "_query_topic": "us-elections"
+    }
+  ]
+}
